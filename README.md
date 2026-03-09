@@ -57,6 +57,7 @@ Calculation:
 a.   KVL:
  
 <img width="509" height="767" alt="Screenshot 2026-03-09 141857" src="https://github.com/user-attachments/assets/3118fcaa-dd47-42d3-9094-d5a2212b192e" />
+
 <img width="466" height="347" alt="Screenshot 2026-03-09 142001" src="https://github.com/user-attachments/assets/4841549d-1b3e-4c5a-b85c-a78de044f4e5" />
 
 
